@@ -1,0 +1,15 @@
+﻿# File lokal
+upload.bat
+core.ps1
+*.bat
+*.ps1
+
+# Laporan lokal
+*.pdf
+*.docx
+
+# Cache
+__pycache__/
+.ipynb_checkpoints/
+*.tmp
+*.log
