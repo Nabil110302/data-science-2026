@@ -19,6 +19,9 @@ https://colab.research.google.com/drive/1WYNopoxmZvrx3gIMZRbnf_85U8Duo0oj?usp=sh
 ### Pertemuan 4
 https://colab.research.google.com/drive/1kFyxf9l2RvjxqJ3uZK-BZWRMBASANQIN?usp=sharing
 
+### Pertemuan 5
+https://colab.research.google.com/drive/1RPFQyhQNg_SnPUppg2FeGGpFjr5a8hzj?usp=sharing
+
 ---
 
 ## Pertemuan 2
