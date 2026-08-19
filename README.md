@@ -74,3 +74,8 @@ Dari Pertemuan 1 sampai 13, saya mempelajari alur Data Science secara bertahap, 
 Hal penting yang saya pelajari adalah kualitas data sangat memengaruhi hasil analisis dan performa model. Pada dataset imbalanced, metrik seperti Recall dan F1-Score lebih relevan dibandingkan Accuracy saja. Pada topik lanjutan, Deep Learning dapat menangani pola non-linear, sedangkan NLP memungkinkan teks diubah menjadi data numerik melalui TF-IDF.
 
 Keterbatasan dari portofolio ini adalah sebagian dataset masih sintetis dan beberapa model masih digunakan sebagai baseline sederhana. Namun, seluruh praktikum sudah memberikan gambaran lengkap mengenai proses dasar Data Science dari awal hingga topik lanjutan.
+
+
+## Status Output Notebook
+
+Notebook dalam paket ini telah dicoba dijalankan dan disimpan dengan output melalui runtime Python lokal. Untuk pengumpulan akhir, tetap disarankan membuka kembali di Google Colab dan memilih **Runtime > Run all** agar output tampil sesuai lingkungan Colab.
